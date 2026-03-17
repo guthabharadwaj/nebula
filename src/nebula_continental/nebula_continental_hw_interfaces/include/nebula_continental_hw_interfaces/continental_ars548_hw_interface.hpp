@@ -23,6 +23,7 @@
 
 #include <nebula_msgs/msg/nebula_packet.hpp>
 
+#include <functional>
 #include <memory>
 #include <string>
 #include <vector>
