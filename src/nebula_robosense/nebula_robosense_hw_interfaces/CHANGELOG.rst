@@ -2,8 +2,8 @@
 Changelog for package nebula_robosense_hw_interfaces
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2026-04-06)
+------------------
 * refactor(nebula_core_hw_interfaces): flatten obsolete include path (`#430 <https://github.com/tier4/nebula/issues/430>`_)
 * Contributors: Max Schmeller
 
